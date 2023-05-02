@@ -11,10 +11,9 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
+    title: 天天電腦 pc365.day
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
+      全新的電腦服務，我們給你最好的購物體驗。
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
